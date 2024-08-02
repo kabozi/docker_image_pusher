@@ -1,2 +1,1 @@
-kasmweb/nginx:1.25.3
-mysql:8.0.33
+bitnami/redis:7.0.15
