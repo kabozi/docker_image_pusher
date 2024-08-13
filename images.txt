@@ -1,1 +1,1 @@
-openjdk:8-jre
+rabbitmq:3.13.6-management
