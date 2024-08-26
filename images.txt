@@ -1,1 +1,2 @@
-rabbitmq:3.13.6-management
+elasticsearch:8.14.3
+kibana:8.14.3
